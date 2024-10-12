@@ -14,7 +14,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with python**
+- 🌱 I’m currently learning **Application Development*
 
 - 💬 Ask me about **Web development | OOC**
 
